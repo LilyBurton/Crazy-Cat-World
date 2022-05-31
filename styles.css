@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  color: #CC7351;
+  font-family: 'Yellowtail', cursive;
+  font-size: 140px;
+  margin: 340px 500px;
+  padding: 0;
+  text-align: center;
+}
+
+.main-heading {
+  background-color: #F5B17B;
+  margin-bottom: 20px;
+  margin-top: 0;
+  padding-bottom: 5px;
+  padding-top: 30px;
+  position: relative;
+}
+
+.navbar {
+  background-color: #F5B17B;
+}
